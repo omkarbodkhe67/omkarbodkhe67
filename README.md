@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Omkar</h1>
+<h1 align="center">Hi 👋, I'm Omkar Bodkhe </h1>
 <h3 align="center">A Passionate MERN Full Stack Developer from India</h3>
 
-<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="Banner Image" width="100%">
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="Banner Image" width="400">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=omkarbodkhe67&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
